@@ -4,6 +4,11 @@
 
 NERF is a deep learning approach that uses neural networks to synthesize photorealistic 3D scenes from a collection of 2D images. It was introduced by researchers at the University of California, Berkeley, and Google Research in a paper published in 2020.
 
+<div align="center">
+    <img src="https://github.com/pininduwk/NeRF/blob/main/mp4/2022_04_15_18_07_28_68747470733a2f2f70656f706c652e656563732e6265726b656c65792e6564752f7e626d696c642f6e6572662f6c65676f5f3230306b5f323536772e676966.gif" width="30%" height="300" alt="GIF 1">
+    <img src="https://github.com/pininduwk/NeRF/blob/main/mp4/dietnerf_method_anim_50p.gif" width="30%" height="300" alt="GIF 2">
+    
+</div>
 
 ## Key Components
 
