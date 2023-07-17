@@ -1,3 +1,4 @@
+[![CI](https://github.com/pininduwk/NeRF/actions/workflows/blank.yml/badge.svg)](https://github.com/pininduwk/NeRF/actions/workflows/blank.yml)
 # NERF (Neural Radiance Fields)
 
 ## Overview
